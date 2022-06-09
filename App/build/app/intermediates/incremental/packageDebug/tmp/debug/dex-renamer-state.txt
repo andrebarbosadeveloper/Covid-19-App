@@ -1,0 +1,4 @@
+#Wed Apr 14 12:45:35 WEST 2021
+base.0=/home/hp/teste1/teste1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
